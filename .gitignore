@@ -99,7 +99,6 @@ dependency-reduced-pom.xml
 Procfile
 node_modules/
 package.json
-.vscode/
 *.tramp_history
 pom.version.*
 pom.xml.*
@@ -117,3 +116,4 @@ command-audit.md
 
 # Local MCP server config (may hold credentials)
 .mcp.json
+config.bat
